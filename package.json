@@ -10,6 +10,6 @@
   "author": "rene78",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.4.6"
+    "mongoose": "^5.13.17"
   }
 }
